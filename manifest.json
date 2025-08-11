@@ -1,0 +1,26 @@
+{
+    "name": "Treat Chaos - IT Solutions & Cybersecurity Services",
+    "short_name": "TreatChaos",
+    "description": "Your trusted partner in tackling IT challenges. We provide innovative solutions that are secure, simple, and seamless.",
+    "icons": [
+        {
+            "src": "img/treatchaos.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "img/treatchaos.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable any"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#6f42c1",
+    "theme_color": "#6f42c1",
+    "orientation": "portrait-primary",
+    "categories": ["business", "productivity", "technology"],
+    "lang": "en-US"
+}
